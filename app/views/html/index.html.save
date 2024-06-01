@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="Piano Rock" />
+    <meta name="author" content="Henrique Moura" />
+    <meta name="title" contant="Rick Mourison">
+    <title>Rick Mourison</title>
+    <link rel="icon" type="image/x-icon" href="static/img/favicon.ico" />
+
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <!-- Google web font "Open Sans" -->
+    <link rel="stylesheet" type="text/css" href="static/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="static/css/index.css">
+    <script src="../../static/js/index.js"></script>
+
+    <!-- load CSS -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">
+    <!-- Font Awesome CSS -->
+	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <header class="text-center tm-site-header">
+                <img class="img-fluid" src="static/img/logo_rickmourison_branca.png" width="300" height="150" alt="..." href="#page-top"/>
+                </header>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="tm-video-container">
+                    <video id="tm-welcome-video" class="tm-welcome-video" autoplay="" loop="" muted="">
+                        <source src="static/vids/video.mp4" type="video/mp4"> Your browser does not support the video tag.
+                        </video>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container tm-container-2">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="tm-welcome-text"></h2>
+                </div>
+            </div>
+            <div class="row tm-section-mb">
+                <div class="col-lg-12">
+                    <div class=" tm-timeline-item">
+                        <div class="tm-timeline-item-inner">
+                            <img src="static/img/img-01.jpg" alt="Image" class="rounded-circle tm-img-timeline">
+                            <div class="tm-timeline-connector">
+                                <p class="mb-0">&nbsp;</p>
+                            </div>
+                            <div class="tm-timeline-description-wrap">
+                                <div class="tm-bg-dark tm-timeline-description">
+                                    <h3 class="tm-text-green tm-font-400">Sobre Rick Mourison</h3>
+                                    <p> Cantor, pianista, professor e autor do método de piano popular Piano Bloom! Durante sua trajetória passou por vários estilos musicais, dentre eles o samba, a bossa nova, o rock, o blues, bem como por estilos regionais, nacionais e internaciais, como o sertanejo brasileiro e o country americano. Hoje, traz em sua apresentação clássicos da música nacional e internacional tocados no piano, com técnicas voicais adequadas a cada estilo praticado. Como cantor, utiliza o Belting Contemporâneo e o CVT (Complete Vocal Technique) para extrair ao máximo as emoções oriundas das canções, desde as baladas mais românticas até o bom e velho rock n' roll.</p>
+                                    <p class="tm-text-green float-right mb-0">Brasília, 29 de Maio de 2024.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tm-timeline-connector-vertical"></div>
+                    </div>
+
+                    <div class="tm-timeline-item">
+                        <div class="tm-timeline-item-inner">
+                            <img src="static/img/1.png" alt="Image" class="rounded-circle tm-img-timeline">
+                            <div class="tm-timeline-connector">
+                                <p class="mb-0">&nbsp;</p>
+                            </div>
+                            <div class="tm-timeline-description-wrap">
+                                <div class="tm-bg-dark-light tm-timeline-description">
+                                    <h3 class="tm-text-cyan tm-font-400">Piano e Voz</h3>
+                                    <p>Este é o padrão clássico de piano solo de acompanhamento e voz, executado ao vivo de forma orgânica e completa. Trata-se de uma apresentação única, luxuosa e envolvente, capaz de navegar o público através de prazeirosas memórias musicais.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tm-timeline-connector-vertical"></div>
+                    </div>
+
+                    <div class="tm-timeline-item">
+                        <div class="tm-timeline-item-inner">
+                            <img src="static/img/img-03.jpg" alt="Image" class="rounded-circle tm-img-timeline">
+                            <div class="tm-timeline-connector">
+                                <p class="mb-0">&nbsp;</p>
+                            </div>
+                            <div class="tm-timeline-description-wrap">
+                                <div class="tm-bg-dark tm-timeline-description">
+                                    <h3 class="tm-text-yellow tm-font-400">Pellentesque accumsan convallis</h3>
+                                    <p>Suspendisse felis massa, maximus sed mauris at, elementum fermentum nisl. Aliquam quis elit vel ipsum ornare sollicitudin. Nulla et dolor eget nisi varius convallis.</p>
+                                    <p class="tm-text-yellow float-right mb-0">Latest News . 30 June 2018</p>
+                                </div>
+                            </div>
+                        </div>Festas, bares, casamentos, casas noturnas, etc.
+                        <div class="tm-timeline-connector-vertical"></div>
+                    </div>
+
+                    <div class="tm-timeline-item">
+                        <div class="tm-timeline-item-inner">
+                            <img src="static/img/img-04.jpg" alt="Image" class="rounded-circle tm-img-timeline">
+                            <div class="tm-timeline-connector">
+                                <p class="mb-0">&nbsp;</p>
+                            </div>
+                            <div class="tm-timeline-description-wrap">
+                                <div class="tm-bg-dark-light tm-timeline-description">
+                                    <h3 class="tm-text-orange tm-font-400">Lorem ipsum dolor sit amet</h3>
+                                    <p>Phasellus at quam facilisis sem congue lacinia. Fusce risus velit, bibendum in magna eu, sollicitudin pellentesque dolor. Nulla facilisi. Fusce libero mauris, maximus et liqula at.</p>
+                                    <p class="tm-text-orange float-right mb-0">New Project . 22 June 2018</p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <!--  row -->
+
+            <hr>
+
+  		     <div class="row">
+                <div class="col-lg-12">
+                    <div class="stylized-text">
+                        Alto padrão de qualidade!
+                    </div>
+                    <div class="stylized-textin"> Já pensou em realizar seu casamento ao som de grandes clássicos da música nacional e/ou internacional? Conosco, você pode escolher o melhor repertório para este grande da sua vida. Realizamos eventos de pequeno, médio e grande porte, tais como eventos particulares, eventos coorporativos, eventos públicos e comunitários, eventos sociais e culturais, cerimônias religiosas, eventos educacionais (workshops), vernissages, além de eventos em bares, restaurantes e casas noturnas. Temos tudo que é preciso para entregar um produto artítico de alta qualidade!</div>
+                    <div class="stylized-text">
+                    <img src="static/img/carousel-1.jpg" alt="Image" class="rounded-circle">
+                    </div>
+                </div>
+            </div>
+
+            <hr>
+
+
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <header class="text-center tm-site-header">
+                            <img class="img-fluid" src="static/img/logo_rickmourison_branca.png" width="300" height="150" alt="..." href="#page-top"/>
+                            </header>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="tm-video-container">
+                                <video id="tm-welcome-video" width="100%" controls>
+                                    <source src="static/vids/Never_tear_us_apart.mp4" type="video/mp4">
+                                      Seu navegador não suporta o elemento de vídeo.
+                                    </video>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <header class="text-center tm-site-header">
+                                  <h3>Clássicos do rock internacional - Never Tear Us Apart (INXS, 1987)</h3>
+                                </header>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="tm-video-container">
+                                    <video id="tm-welcome-video" width="100%" controls>
+                                        <source src="static/vids/Down_em_mim.mp4" type="video/mp4">
+                                          Seu navegador não suporta o elemento de vídeo.
+                                        </video>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <header class="text-center tm-site-header">
+                                      <h3>Relíquias do rock nacional - Down Em Mim (Barão Vermelho, 1982)</h3>
+                                      <h3>Para mais vídeos, acesse nossas redes sociais.</h3>
+                                    </header>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="social-links text-center mb-5">
+                                      	 <a href="https://www.instagram.com/seuPerfil" target="_blank" class="social-link">
+                                      	     <i class="fab fa-instagram"></i>
+                                      	 </a>
+                                      	  <a href="https://www.youtube.com/c/seuCanal" target="_blank" class="social-link">
+                                           <i class="fab fa-youtube"></i>
+                                      	 </a>
+                                       </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <header class="text-center tm-site-header">
+                                    <img class="img-fluid" src="static/img/logo_rickmourison_branca.png" width="300" height="150" alt="..." href="#page-top"/>
+                                    </header>
+                                </div>
+                            </div>
+                    </div>
+
+	</div>
+
+        <hr>
+        <!-- Footer -->
+        <footer class="row mt-5 mb-5">
+            <div class="col-lg-12">
+                <p class="text-center tm-text-gray tm-copyright-text mb-0">Copyright &copy;
+                    <span class="tm-current-year">2024</span> Rick Mourison
+                    | Design: <a href="http://templatemo.com/tm-517-timeless" class="tm-text-white">Timeless</a>
+                </p>
+            </div>
+        </footer>
+    </div>
+    <!-- .container -->
+
+    <script src="js/jquery.min.js"></script>
+    <!-- <script src="js/jquery-3.2.1.slim.min.js"></script> -->
+    <script src="js/templatemo-script.js"></script>
+
+</body>
+</html>
