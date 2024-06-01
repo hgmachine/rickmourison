@@ -380,7 +380,7 @@ p {
 .stylized-textin {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.2em;
-    color: #ffffff; 
+    color: #ffffff;
     text-align: center;
     margin: 50px auto; /* Define a margem superior e inferior para 50px e centraliza horizontalmente */
 }
@@ -399,4 +399,3 @@ p {
 .social-link:hover {
     color: #007bff;
 }
-
