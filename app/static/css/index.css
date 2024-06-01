@@ -372,7 +372,7 @@ p {
 .stylized-text {
     font-family: 'Open Sans', sans-serif;
     font-size: 2em;
-    color: #ff6347; /* Tomate */
+    color: #33CCCC; /* Tomate */
     text-align: center;
     margin: 50px auto; /* Define a margem superior e inferior para 50px e centraliza horizontalmente */
 }
