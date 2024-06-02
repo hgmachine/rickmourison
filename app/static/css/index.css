@@ -440,8 +440,8 @@ body {
     }
 
     .whatsapp-float img {
-        margin-top: 12px;
-        width: 24px;
-        height: 24px;
+        /*margin-top: 12px;*/
+        width: 40px;
+        height: 40px;
     }
 }
