@@ -1,8 +1,8 @@
 /app/controllers/db
 
-/app/controllers/__pycache__.py
-/app/models/__pycache__.py
-/app/tasks/__pycache__.py
+/app/controllers/__pycache__
+/app/models/__pycache__
+/app/tasks/__pycache__
 
 /app/static/img
 /app/static/vids
