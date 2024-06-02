@@ -411,19 +411,19 @@ body {
     height: 60px;
     bottom: 20px;
     right: 20px;
-    background-color: #25d366;
+  /*  background-color: #25d366;
     color: #fff;
-    border-radius: 50px;
+    border-radius: 50px; */
     text-align: center;
     font-size: 30px;
-    box-shadow: 2px 2px 3px #999;
+    /*box-shadow: 2px 2px 3px #999;*/
     z-index: 1000;
 }
 
 .whatsapp-float img {
     margin-top: 16px;
-    width: 28px;
-    height: 28px;
+    width: 45px;
+    height: 45px;
 }
 
 .whatsapp-float:hover {
