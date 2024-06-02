@@ -407,10 +407,10 @@ body {
 /* Estilos para o botão flutuante de WhatsApp */
 .whatsapp-float {
     position: fixed;
-    width: 60px;
-    height: 60px;
-    bottom: 20px;
-    right: 20px;
+    width: 70px;
+    height: 70px;
+    bottom: 40px;
+    right: 40px;
   /*  background-color: #25d366;
     color: #fff;
     border-radius: 50px; */
@@ -421,9 +421,9 @@ body {
 }
 
 .whatsapp-float img {
-    margin-top: 16px;
-    width: 45px;
-    height: 45px;
+    /*margin-top: 16px;*/
+    width: 70px;
+    height: 70px;
 }
 
 .whatsapp-float:hover {
