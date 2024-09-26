@@ -1,5 +1,5 @@
 from bottle import template
-
+import time
 
 class Application:
 
@@ -21,4 +21,4 @@ class Application:
 
     def index(self):
         print('Entrando na index.')
-        return template('app/views/html/index')
+        return template('app/views/html/index', version=str(int(time.time())))
