@@ -5,11 +5,13 @@ Timeless Template
 http://www.templatemo.com/tm-517-timeless
 
 */
+
+
 body {
-    background-image: url('/static/img/piano_road.jpeg');
-    background-size: cover; /* Para a imagem cobrir todo o fundo */
-    background-position: center; /* Para centralizar a imagem */
-    background-repeat: no-repeat; /* Para não repetir a imagem */
+    background: linear-gradient(to bottom, #000000, #000000);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* Se precisar cobrir toda a área */
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-weight: 300;
     overflow-x: hidden;
@@ -33,7 +35,12 @@ h6 {
     font-weight: 300;
 }
 
+p {
+  color: #FFFFFF; /* Garante que os títulos também sejam brancos */
+}
+
 h3 {
+    color: #FFFAFA;
     font-size: 1.3rem;
 }
 
@@ -135,15 +142,15 @@ a.tm-text-white:focus {
 }
 
 .tm-text-green {
-    color: #99CC66;
+    color: #DAA520;
 }
 
 .tm-text-cyan {
     color: #33CCCC;
 }
 
-.tm-text-yellow {
-    color: #FFFF66;
+.tm-text-gold {
+    color: #DAA520;
 }
 
 .tm-text-orange {
